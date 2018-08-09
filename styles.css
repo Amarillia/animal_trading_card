@@ -1,0 +1,64 @@
+/* add your CSS here */
+*{
+    font-family: 'Dosis', sans-serif;
+	border-radius: 10px;
+}
+
+body{
+	background-color: #eec382;
+}
+
+h1{
+	text-align: center;
+	font-size: 4em;
+	margin: 20px 0 20px 0;
+	text-transform: uppercase;
+}
+
+img {
+    display: block;
+	width: 500px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.ini{
+	font-style: italic;
+    text-align: justify;
+    font-size: 1.3em;
+   	margin: 10px 10px 10px 10px;
+}
+
+.animal{
+    width: 500px;
+    margin: auto;
+    padding:20px;
+    background-color: #66cdaa;
+    border: 1px solid #66cdaa;
+	box-shadow: 15px 20px 14px 0px rgba(50,50,50, 0.5);
+}
+
+span{
+	display: inline-block;
+	font-weight: 700;
+}
+
+li{
+	display: block;
+    font-size: 1.3em;
+	list-style-type:none;
+   	text-align: left;
+}
+.descr{
+	display:block;
+	padding: 15px 15px 15px 15px;
+	font-size: 1.4em;
+    text-align: justify;
+}
+
+.info{
+	border: 1px solid #eedd82;
+	margin: 10px 0 10px 0;
+	padding: 0 10px 0 0;
+    background-color: #eedd82;
+}
