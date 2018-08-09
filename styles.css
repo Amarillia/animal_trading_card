@@ -1,6 +1,6 @@
 /* add your CSS here */
 *{
-	font-family: 'Poiret One', cursive;
+    font-family: 'Dosis', sans-serif;
 	border-radius: 10px;
 }
 
@@ -22,15 +22,14 @@ img {
     margin-right: auto
 }
 
-p.ini{
+.ini{
 	font-style: italic;
     text-align: justify;
-    font-weight: 700;
     font-size: 1.3em;
    	margin: 10px 10px 10px 10px;
 }
 
-div.animal{
+.animal{
     width: 500px;
     margin: auto;
     padding:20px;
@@ -41,7 +40,7 @@ div.animal{
 
 span{
 	display: inline-block;
-	font-weight: bold;
+	font-weight: 700;
 }
 
 li{
@@ -49,11 +48,9 @@ li{
     font-size: 1.3em;
 	list-style-type:none;
    	text-align: left;
-    font-weight: 500;
 }
-p.descr{
+.descr{
 	display:block;
-    font-weight: 700;
 	padding: 15px 15px 15px 15px;
 	font-size: 1.4em;
     text-align: justify;
