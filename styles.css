@@ -4,16 +4,20 @@
 	border-radius: 10px;
 }
 
-h3{
+body{
+	background-color: #eec382;
+}
+
+h1{
 	text-align: center;
 	font-size: 4em;
 	margin: 20px 0 20px 0;
-
+	text-transform: uppercase;
 }
 
 img {
     display: block;
-	width: 300px;
+	width: 500px;
     margin-left: auto;
     margin-right: auto
 }
@@ -27,13 +31,12 @@ p.ini{
 }
 
 div.animal{
-    width: 300px;
-    margin: 20px;
+    width: 500px;
+    margin: auto;
     padding:20px;
-    background-color: #ccc;
-    border: 4px double #474047;
-	box-shadow: 5px 5px 14px 0px rgba(50,50,50, 0.5);
-
+    background-color: #66cdaa;
+    border: 1px solid #66cdaa;
+	box-shadow: 15px 20px 14px 0px rgba(50,50,50, 0.5);
 }
 
 span{
@@ -47,7 +50,6 @@ li{
 	list-style-type:none;
    	text-align: left;
     font-weight: 500;
-
 }
 p.descr{
 	display:block;
@@ -55,14 +57,11 @@ p.descr{
 	padding: 15px 15px 15px 15px;
 	font-size: 1.4em;
     text-align: justify;
-
 }
 
 .info{
-	border: 1px solid gray;
+	border: 1px solid #eedd82;
 	margin: 10px 0 10px 0;
 	padding: 0 10px 0 0;
-    background-color: #b4b4f0;
-
-
+    background-color: #eedd82;
 }
